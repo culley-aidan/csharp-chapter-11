@@ -6,7 +6,7 @@ C# Programming Chapter 11
 - [X] - Guided - ExceptionsOnPurpose2
 - [X] - Guided - ExceptionsOnPurpose3
 - [X] - 1 - SubscriptExceptionTest
-- [ ] - 2 - MortgageApplication
+- [X] - 2 - MortgageApplication
 - [ ] - 3 - FindSquareRoot
 - [ ] - 4 - OrderExceptionDemo1 && OrderException2
 - [ ] - ~~5b - BookExceptionDemo~~
