@@ -1,0 +1,15 @@
+
+ExceptionsOnPurpose/.vs/ExceptionsOnPurpose/v16/.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.json
+*.dll
+*.exe
+*.pdb
+ExceptionsOnPurpose/ExceptionsOnPurpose/obj/Debug/netcoreapp3.0/ExceptionsOnPurpose.AssemblyInfo.cs
+*.cache
+ExceptionsOnPurpose/ExceptionsOnPurpose/obj/Debug/netcoreapp3.0/ExceptionsOnPurpose.csproj.FileListAbsolute.txt
+*.props
+*.targets
