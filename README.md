@@ -3,7 +3,7 @@ C# Programming Chapter 11
 
 ## TODO 
 - [X] - Guided - ExceptionsOnPurpose
-- [ ] - Guided - ExceptionsOnPurpose2
+- [X] - Guided - ExceptionsOnPurpose2
 - [ ] - Guided - ExceptionsOnPurpose3
 - [ ] - 1 - SubscriptExceptionTest
 - [ ] - 2 - MortgageApplication
