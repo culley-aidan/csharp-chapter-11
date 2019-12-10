@@ -9,4 +9,4 @@ C# Programming Chapter 11
 - [ ] - 2 - MortgageApplication
 - [ ] - 3 - FindSquareRoot
 - [ ] - 4 - OrderExceptionDemo1 && OrderException2
-- [ ] - 5b - BookExceptionDemo
+- [ ] - ~~5b - BookExceptionDemo~~
