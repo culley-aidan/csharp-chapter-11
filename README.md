@@ -8,5 +8,5 @@ C# Programming Chapter 11
 - [X] - 1 - SubscriptExceptionTest
 - [X] - 2 - MortgageApplication
 - [X] - 3 - FindSquareRoot
-- [X] - 4 - OrderExceptionDemo1 && OrderException2
+- [X] - 4 - OrderExceptionDemo1 && OrderExceptionDemo2
 - [ ] - ~~5b - BookExceptionDemo~~
